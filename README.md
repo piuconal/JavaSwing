@@ -1,1 +1,1 @@
-# JavaSwing
+# JavaSwing - Quản lý danh sách
